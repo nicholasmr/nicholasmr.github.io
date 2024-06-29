@@ -4,7 +4,7 @@ title: MHD Turbulence
 description: Magnetohydrodynamic turbulent energy cascade
 img: assets/img/projects/MHD-turbulence.jpg
 importance: 9
-category: 
+category: work
 related_publications: true
 ---
 

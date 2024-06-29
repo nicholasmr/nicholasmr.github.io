@@ -5,8 +5,8 @@ permalink: /projects/
 description: my projects, grouped in to themes.
 nav: true
 nav_order: 3
-display_categories: # [work, fun]
-horizontal: true
+display_categories: [work, fun]
+horizontal: false
 ---
 
 <!-- pages/projects.md -->

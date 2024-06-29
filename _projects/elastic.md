@@ -4,7 +4,7 @@ title: Elastic waves
 description: Elastic wave propagation in polycrystalline materials
 img: assets/img/projects/elastic-wave-ice.png
 importance: 5
-category: 
+category: work
 related_publications: true
 ---
 
