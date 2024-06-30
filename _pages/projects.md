@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: my projects, grouped in to themes.
+description: my research projects, grouped in to themes.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [work]
 horizontal: false
 ---
 
