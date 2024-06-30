@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Microstructure
-description: Evolving microstructure of polycrystalline materials
+description: Polycrystalline materials with and evolving microstructure
 img: assets/img/projects/CPO.jpg
 importance: 1
 category: work
