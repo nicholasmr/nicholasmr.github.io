@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ice streams
+title: Streaming ice
 description: Ice stream existance and stability
 img: assets/img/projects/ice-stream.jpg
 importance: 3
