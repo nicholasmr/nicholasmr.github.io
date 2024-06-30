@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Constitutive modelling
-description: Non-Newtonian, anisotropic rheologies
+description: Nonlinear and anisotropic material behaviour of polycrystalline materials
 img: assets/img/projects/orthotropic.jpg
 importance: 2
 category: work
