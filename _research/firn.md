@@ -1,9 +1,9 @@
 ---
-title: "Firn densification"
+title: "Firn Densification"
 rank: 7
 header:
   overlay_image: /assets/images/banner-firn.png
-  teaser: /assets/images/teaser-firn.png
+  teaser: /assets/images/teaser-firn3.png
   overlay_filter: 0.15
 excerpt: "<br><br><br><br><br><br><br><br><br>"
 ---

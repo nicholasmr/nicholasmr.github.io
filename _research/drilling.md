@@ -1,17 +1,17 @@
 ---
-title: "Inverse Problems"
-rank: 6
+title: "Ice-core Drilling"
+rank: 13
 header:
-  overlay_image: /assets/images/banner-inverse.jpg
-  teaser: /assets/images/teaser-inverse.jpg
-  overlay_filter: 0.15
+  overlay_image: /assets/images/banner-drilling.png
+  teaser: /assets/images/teaser-drilling.png
+  overlay_filter: 0.08
 excerpt: "<br><br><br><br><br><br><br><br><br>"
 ---
 
 ## Papers 
 
 <div class="entries-grid">
-  {% assign sorted_pubs = site.publications | where_exp: "item", "item.categories contains 'inverse'" | sort: 'date' | reverse %}
+  {% assign sorted_pubs = site.publications | where_exp: "item", "item.categories contains 'drilling'" | sort: 'date' | reverse %}
   {% for paper in sorted_pubs %}
     <div class="grid__item">
       <div class="research-item__thumbnail">

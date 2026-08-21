@@ -1,17 +1,17 @@
 ---
-title: "Inverse Problems"
-rank: 6
+title: "Turbulent Cascades"
+rank: 8
 header:
-  overlay_image: /assets/images/banner-inverse.jpg
-  teaser: /assets/images/teaser-inverse.jpg
-  overlay_filter: 0.15
+  overlay_image: /assets/images/banner-turbulence.png
+  teaser: /assets/images/teaser-turbulence.jpg
+  overlay_filter: 0.08
 excerpt: "<br><br><br><br><br><br><br><br><br>"
 ---
 
 ## Papers 
 
 <div class="entries-grid">
-  {% assign sorted_pubs = site.publications | where_exp: "item", "item.categories contains 'inverse'" | sort: 'date' | reverse %}
+  {% assign sorted_pubs = site.publications | where_exp: "item", "item.categories contains 'turbulence'" | sort: 'date' | reverse %}
   {% for paper in sorted_pubs %}
     <div class="grid__item">
       <div class="research-item__thumbnail">

@@ -4,9 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: false
 header:
-  overlay_image: /assets/images/banner-welcome.jpg
-  overlay_filter: 0.1
-excerpt: Selected work from the past few years<br><br>
+  overlay_image: /assets/images/banner-publications2.jpeg
+  overlay_filter: 0.25
+excerpt: "<br><br><br><br><br>"
 ---
 
 <div class="entries-grid">

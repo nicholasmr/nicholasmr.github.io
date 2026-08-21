@@ -6,7 +6,7 @@ author_profile: false
 header:
   overlay_image: /assets/images/banner-research.jpg
   overlay_filter: 0.1
-excerpt: "<br><br><br>"
+excerpt: "<br><br><br><br><br>"
 ---
 
 {% assign topics = site.research | sort: "rank" %}

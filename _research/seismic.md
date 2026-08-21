@@ -1,6 +1,6 @@
 ---
-title: "Glacial seismology"
-rank: 10
+title: "Glacial Seismology"
+rank: 11
 header:
   teaser: /assets/images/teaser-seismic.jpg
   overlay_image: /assets/images/banner-seismic.jpg

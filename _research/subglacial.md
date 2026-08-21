@@ -1,6 +1,6 @@
 ---
 title: "Subglacial Environment"
-rank: 6
+rank: 7
 header:
   overlay_image: /assets/images/banner-subglacial.jpg
   teaser: /assets/images/banner-subglacial.jpg

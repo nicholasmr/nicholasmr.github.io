@@ -1,6 +1,6 @@
 ---
-title: "Ice fracture"
-rank: 8
+title: "Ice Fracture"
+rank: 10
 header:
   overlay_image: /assets/images/banner-fracture.jpg
   teaser: /assets/images/banner-fracture.jpg

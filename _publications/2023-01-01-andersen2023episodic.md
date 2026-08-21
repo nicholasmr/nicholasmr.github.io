@@ -1,7 +1,7 @@
 ---
 title: "Episodic Subglacial Drainage Cascades Below the Northeast Greenland Ice Stream"
 collection: publications
-categories: [iceflow, paleo]
+categories: [iceflow, subglacial]
 date: 2023-01-01
 venue: "Geophysical Research Letters"
 authors: "Andersen, J. K. et al."
