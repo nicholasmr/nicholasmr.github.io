@@ -1,0 +1,148 @@
+---
+# Two dashes are mandatory here!
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; 
+@import "minimal-mistakes";
+
+/* Splash video */
+
+/* Target the video inside the hero */
+.hero-video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -1; /* Puts it behind the text */
+  transform: translate(-50%, -50%);
+  object-fit: cover;
+}
+
+/* Ensure the header container allows for absolute positioning */
+.page__hero--overlay {
+  position: relative;
+  overflow: hidden;
+}
+
+/* People */
+
+/* Container for the whole team */
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 40px;
+  margin-top: 2rem;
+}
+
+/* Individual member card */
+.team-member {
+  display: flex;
+  flex-direction: column; /* Forces vertical stacking */
+  align-items: center;    /* Centers everything horizontally */
+  text-align: center;
+}
+
+/* The Circle Photo */
+.team-member__avatar img {
+  width: 190px;
+  height: 180px;
+  border-radius: 50%;     /* Makes it a circle */
+  object-fit: cover;      /* Prevents face-squishing */
+  border: 4px solid #f2f3f3;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  margin-bottom: 10px;
+  transition: transform 0.3s ease;
+}
+
+/* Text Styling */
+.team-member__name {
+  margin: 10px 0 5px 0 !important;
+  font-size: 1.25rem !important;
+  color: #333;
+}
+
+.team-member__position {
+  font-weight: bold;
+  color: #666;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+}
+
+.team-member__bio {
+  font-size: 0.9rem;
+  line-height: 1.4;
+  color: #444;
+}
+
+
+/* Research */
+
+/* Research List Container */
+.research-list {
+  margin-top: 2rem;
+}
+
+.research-item-row {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 50px;
+  gap: 40px;
+  border-bottom: 1px solid #f2f3f3;
+  padding-bottom: 30px;
+
+}
+
+/* Rounded Thumbnail */
+.research-item__thumbnail img {
+  width: 300px; /* Slightly larger than the people icons */
+  height: 200px;
+  min-width: 200px;
+  border-radius: 15px; /* "Soft" rounded corners (or 50% for full circles) */
+  object-fit: cover;
+  box-shadow: 0 4px 25px rgba(0,0,0,0.15);
+}
+
+/* Content Area */
+.research-item__content {
+  flex: 1;
+}
+
+.research-item__title {
+  margin: 10px 0 10px 0 !important;
+  font-size: 1.1rem !important;
+  
+  a {
+    text-decoration: none;
+    color: inherit;
+    &:hover {
+      color: #00adb5;
+    }
+  }
+}
+
+
+/* Carousel */
+
+/* Add a subtle shadow to the "cards" in the carousel */
+.splide__slide .grid__item {
+  height: 90%; /* Ensures all slides are the same height */
+  width: 90%;
+  padding: 22px
+/*
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 0px;
+  padding: 10px;
+*/
+}
+
+/* Adjust the arrows to match Minimal Mistakes colors */
+.splide__arrow {
+  background: #ccc !important;
+  fill: #fff !important;
+}

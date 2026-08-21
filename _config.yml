@@ -1,0 +1,32 @@
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-include-cache
+
+# Basic Settings
+title: "Ice Flow and Modeling Group"
+subtitle: "Niels Bohr Institute, University of Copenhagen"
+locale: "en-US"
+
+# Specific Theme Settings
+minimal_mistakes_skin: "default" # Options: air, aqua, contrast, etc.
+
+site_navigation: main
+
+collections:
+  research:
+    output: true
+    permalink: /research/:path/
+  people:
+    output: true
+    permalink: /people/:name
+  publications:
+    output: false
+    permalink: /publications/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "research" # This targets everything in the _research folder
+    values:
+      layout: "splash"
+      author_profile: false
