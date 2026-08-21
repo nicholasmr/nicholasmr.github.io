@@ -1,5 +1,5 @@
 ---
-title: "Seismic Glaciology"
+title: "Glacial seismology"
 rank: 10
 header:
   teaser: /assets/images/teaser-seismic.jpg

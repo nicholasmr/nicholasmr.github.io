@@ -3,8 +3,8 @@ plugins:
   - jekyll-include-cache
 
 # Basic Settings
-title: "Ice Flow and Modeling Group"
-subtitle: "Niels Bohr Institute, University of Copenhagen"
+title: "Nicholas Rathmann"
+#subtitle: "Niels Bohr Institute, University of Copenhagen"
 locale: "en-US"
 
 # Specific Theme Settings
@@ -16,12 +16,12 @@ collections:
   research:
     output: true
     permalink: /research/:path/
-  people:
-    output: true
-    permalink: /people/:name
   publications:
     output: false
     permalink: /publications/:path/
+  teaching:
+    output: false
+    permalink: /teaching/:path/
 
 defaults:
   - scope:

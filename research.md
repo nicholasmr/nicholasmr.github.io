@@ -1,6 +1,6 @@
 ---
 layout: splash # archive
-title: "Research Topics"
+title: "Research"
 permalink: /research/
 author_profile: false
 header:
