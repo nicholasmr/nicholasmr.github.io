@@ -4,7 +4,7 @@ rank: 8
 header:
   overlay_image: /assets/images/banner-turbulence.png
   teaser: /assets/images/teaser-turbulence.jpg
-  overlay_filter: 0.08
+  overlay_filter: 0.2
 excerpt: "<br><br><br><br><br><br><br><br><br>"
 ---
 

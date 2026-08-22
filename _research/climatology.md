@@ -2,9 +2,9 @@
 title: "Climatology"
 rank: 12
 header:
-  overlay_image: /assets/images/teaser-climatology.jpg
+  overlay_image: /assets/images/banner-climatology.jpg
   teaser: /assets/images/teaser-climatology.jpg
-  overlay_filter: 0.07
+  overlay_filter: 0.05
 excerpt: "<br><br><br><br><br><br><br><br><br>"
 ---
 

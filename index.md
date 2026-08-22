@@ -8,7 +8,7 @@ header:
 excerpt: >
   <img src="/assets/images/profile-pic.jpg"
        alt="Photo"
-       style="width: 220px; height: 220px; object-fit: cover; border-radius: 50%; border: 4px solid white;">
+       style="width: 190px; height: 190px; object-fit: cover; border-radius: 50%; border: 3px solid white;">
 ---
 
 I am a physicist and fluid dynamicist at the Niels Bohr Institute, University of Copenhagen. My research concerns the dynamics of nonlinear and anisotropic continua, with particular interest in how microscopic structure influences macroscopic behavior. I develop mathematical models and computational methods to study polycrystalline materials, wave propagation, and geophysical flows.
