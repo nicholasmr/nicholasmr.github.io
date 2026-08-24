@@ -19,8 +19,8 @@ excerpt: "<br><br><br><br><br>"
         </a>
       </div>
       <div class="research-item__content">
-          <div style="margin: 19px 0 0 0; font-size: 0.95rem;"> <b>{{ paper.authors }} ({{ paper.date | date: "%Y" }})</b> </div>
-          <div style="margin: 6px 0 0 0; font-size: 0.85rem;"> <i>{{ paper.title }}</i> </div>
+          <div style="margin: 19px 0 0 0; font-size: 1rem;"> <b>{{ paper.authors }} ({{ paper.date | date: "%Y" }})</b> </div>
+          <div style="margin: 6px 0 0 0; font-size: 0.95rem;"> <i>{{ paper.title }}</i> </div>
           <!-- <small><i>{{ paper.venue }}</i>, {{ paper.date | date: "%Y" }}</small> -->
       </div>
     </div>
