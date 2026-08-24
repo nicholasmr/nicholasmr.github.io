@@ -4,7 +4,7 @@ collection: publications
 categories: [iceflow, fracture]
 date: 2024-01-01
 venue: "The Cryosphere"
-authors: "A Grinsted et al."
+authors: "Grinsted et al."
 paperurl: "https://doi.org/10.5194/tc-18-1947-2024"
 header:
   teaser: "/../assets/images/publications/grinsted2024failure.jpg"

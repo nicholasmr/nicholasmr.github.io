@@ -4,7 +4,7 @@ collection: publications
 categories: [iceflow, radio, microstructure]
 date: 2023-01-01
 venue: "Nature Communications"
-authors: "TA Gerber et al."
+authors: "Gerber et al."
 paperurl: "https://doi.org/10.1038/s41467-023-38139-8"
 header:
   teaser: "/../assets/images/publications/gerber2023crystal.jpg"

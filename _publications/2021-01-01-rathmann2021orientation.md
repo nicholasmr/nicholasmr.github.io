@@ -4,7 +4,7 @@ collection: publications
 categories: [microstructure, iceflow]
 date: 2021-01-01
 venue: "Journal of Glaciology"
-authors: "NM Rathmann et al."
+authors: "Rathmann et al."
 paperurl: "https://doi.org/10.1017/jog.2020.117"
 header:
   teaser: "/../assets/images/publications/rathmann2021orientation.jpg"

@@ -37,30 +37,42 @@ search: false
 /* --- Research --- */
 
 
-/* Rounded Thumbnail */
+.entries-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(300px, 100%), 300px)); /* grid-template-columns: repeat(auto-fit, minmax(300px, 300px)); */
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+.grid__item {
+  width: 100%;
+  max-width: 300px;
+  text-align: center;
+}
+
+.research-item__content {
+  text-align: center;
+}
+
 .research-item__thumbnail img {
-  width: 300px; /* Slightly larger than the people icons */
+  width: 100%;
+  max-width: 300px;
   height: 200px;
-  min-width: 150px;
+  min-width: 0;
+  
   border-radius: 0px; /* "Soft" rounded corners (or 50% for full circles) */
   object-fit: cover;
   box-shadow: 1px 5px 20px rgba(0,0,0,0.80); /* x,y offset, blur radius, alpha */
 }
 
-/* Content Area */
-.research-item__content {
-  flex: 1;
-}
-
 .research-item__title {
-
   margin: 16px 0 10px 0 !important;
-  
   font-size: 1.0rem !important;
   
   a {
     text-decoration: none;
     color: inherit;
+    
     &:hover {
       color: #00adb5;
     }

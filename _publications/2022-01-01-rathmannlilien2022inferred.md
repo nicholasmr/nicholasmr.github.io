@@ -4,7 +4,7 @@ collection: publications
 categories: [microstructure, iceflow, inverse]
 date: 2022-01-01
 venue: "Journal of Glaciology"
-authors: "NM Rathmann et al."
+authors: "Rathmann et al."
 paperurl: "https://doi.org/10.1017/jog.2021.88"
 header:
   teaser: "/../assets/images/publications/rathmannlilien2022inferred.jpg"

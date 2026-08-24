@@ -4,7 +4,7 @@ collection: publications
 categories: [iceflow]
 date: 2017-01-01
 venue: "Geophysical Research Letters"
-authors: "NM Rathmann et al."
+authors: "Rathmann et al."
 paperurl: "https://doi.org/10.1002/2017GL074368"
 header:
   teaser: "/../assets/images/publications/rathmann2017highly.jpg"

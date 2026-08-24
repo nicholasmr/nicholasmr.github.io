@@ -20,11 +20,9 @@ excerpt: "<br><br><br><br><br>"
         </a>
       </div>
       <div class="research-item__content">
-      <center>
         <h4 class="research-item__title">
           <a href="{{ topic.url | relative_url }}">{{ topic.title }}</a>
         </h4>
-        </center>
       </div>
     </div>
   {% endfor %}

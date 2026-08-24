@@ -4,7 +4,7 @@ collection: publications
 categories: [radio, microstructure, iceflow]
 date: 2026-01-01
 venue: "Preprint"
-authors: "O Zeising et al."
+authors: "Zeising et al."
 paperurl: "#"
 header:
   teaser: "/../assets/images/publications/zeising2026recrystallization.jpg"

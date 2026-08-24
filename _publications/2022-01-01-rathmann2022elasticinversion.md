@@ -4,7 +4,7 @@ collection: publications
 categories: [seismic, inverse, microstructure]
 date: 2022-01-01
 venue: "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences"
-authors: "NM Rathmann et al."
+authors: "Rathmann et al."
 paperurl: "https://doi.org/10.1098/rspa.2022.0574"
 header:
   teaser: "/../assets/images/publications/rathmann2022elasticinversion.jpg"
