@@ -3,7 +3,7 @@ title: "Glacial Seismology"
 rank: 11
 header:
   teaser: /assets/images/teaser-seismic.jpg
-  overlay_image: /assets/images/banner-seismic2.jpg
+  overlay_image: /assets/images/banner-seismic.jpg
   overlay_filter: 0.00
 excerpt: <br><br><br><br><br><br><br><br><br>
 ---

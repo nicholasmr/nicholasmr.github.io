@@ -2,7 +2,7 @@
 title: "Turbulent Cascades"
 rank: 8
 header:
-  overlay_image: /assets/images/banner-turbulence.png
+  overlay_image: /assets/images/banner-turbulence.jpg
   teaser: /assets/images/teaser-turbulence.jpg
   overlay_filter: 0.2
 excerpt: "<br><br><br><br><br><br><br><br><br>"

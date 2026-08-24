@@ -2,8 +2,8 @@
 title: "Geodynamics"
 rank: 7
 header:
-  overlay_image: /assets/images/teaser-geodyn.png
-  teaser: /assets/images/teaser-geodyn.png
+  overlay_image: /assets/images/teaser-geodyn.jpg
+  teaser: /assets/images/teaser-geodyn.jpg
   overlay_filter: 0.08
 excerpt: "<br><br><br><br><br><br><br><br><br>"
 ---

@@ -2,9 +2,9 @@
 title: "Inverse Problems"
 rank: 6
 header:
-  overlay_image: /assets/images/banner-inverse.jpg
+  overlay_image: /assets/images/teaser-inverse.jpg
   teaser: /assets/images/teaser-inverse.jpg
-  overlay_filter: 0.15
+  overlay_filter: 0.25
 excerpt: "<br><br><br><br><br><br><br><br><br>"
 ---
 

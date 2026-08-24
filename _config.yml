@@ -4,11 +4,11 @@ plugins:
 
 # Basic Settings
 title: "Nicholas Rathmann"
-#subtitle: "Niels Bohr Institute, University of Copenhagen"
+#subtitle: "<affiliation>"
 locale: "en-US"
 
 # Specific Theme Settings
-minimal_mistakes_skin: "default" # Options: air, aqua, contrast, etc.
+minimal_mistakes_skin: "mint" # Options: air, aqua, contrast, etc.
 
 site_navigation: main
 
@@ -25,6 +25,21 @@ collections:
   software:
     output: false
     permalink: /software/:path/
+
+footer:
+  links:
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?hl=en&user=frOklkgAAAAJ"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Nicholas-Rathmann"
+    - label: "ORCID"
+      icon: "fa-brands fa-orcid"
+      url: "https://orcid.org/0000-0001-7140-0931"      
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/nicholasmr"
 
 defaults:
   - scope:

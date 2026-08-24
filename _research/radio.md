@@ -2,7 +2,7 @@
 title: "Radio Glaciology"
 rank: 3
 header:
-  teaser: /assets/images/teaser-radio.png
+  teaser: /assets/images/teaser-radio.jpg
   overlay_color: "#000"
   overlay_filter: 0.0
 excerpt: >

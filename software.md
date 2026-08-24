@@ -4,7 +4,7 @@ title: "Software"
 permalink: /software/
 author_profile: false
 header:
-  overlay_image: /assets/images/banner-software2.jpeg
+  overlay_image: /assets/images/banner-software.jpeg
   overlay_filter: 0.2
 excerpt: <br><br><br><br><br><br>
 ---

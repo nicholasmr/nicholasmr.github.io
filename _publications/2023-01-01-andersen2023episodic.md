@@ -4,7 +4,7 @@ collection: publications
 categories: [iceflow, subglacial]
 date: 2023-01-01
 venue: "Geophysical Research Letters"
-authors: "Andersen, J. K. et al."
+authors: "JK Andersen et al."
 paperurl: "https://doi.org/10.1029/2023GL103240"
 header:
   teaser: "/../assets/images/publications/andersen2023episodic.jpg"

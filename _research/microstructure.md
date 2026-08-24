@@ -4,8 +4,9 @@ rank: 5
 header:
   teaser: /assets/images/banner-microstructure.jpg
   overlay_color: "#000"
+  overlay_filter: 0.0
 excerpt: >
-    <video autoplay loop muted playsinline class="hero-video"><source src="/assets/images/banner-microstructure.mp4" type="video/mp4"></video>
+    <video autoplay loop muted playsinline class="hero-video"><source src="/assets/images/banner-microstructure-new.mp4" type="video/mp4"></video>
     <br><br><br><br><br><br><br><br><br>
 ---
 

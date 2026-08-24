@@ -3,7 +3,7 @@ title: "Ice-core Drilling"
 rank: 13
 header:
   overlay_image: /assets/images/banner-drilling.png
-  teaser: /assets/images/teaser-drilling.png
+  teaser: /assets/images/teaser-drilling.jpg
   overlay_filter: 0.08
 excerpt: "<br><br><br><br><br><br><br><br><br>"
 ---
