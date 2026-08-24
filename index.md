@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: ""
+title: "Nicholas Rathmann"
 author_profile: false # Usually hidden on splash pages for a cleaner look
 header:
   overlay_image: /assets/images/banner-welcome-wlines.jpg

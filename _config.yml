@@ -3,7 +3,7 @@ plugins:
   - jekyll-include-cache
 
 # Basic Settings
-title: "Nicholas Rathmann"
+title: "NM Rathmann"
 #subtitle: "<affiliation>"
 locale: "en-US"
 
@@ -31,15 +31,15 @@ footer:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=en&user=frOklkgAAAAJ"
-    - label: "ResearchGate"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/nicholasmr"
+    - label: "RG"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Nicholas-Rathmann"
     - label: "ORCID"
       icon: "fa-brands fa-orcid"
       url: "https://orcid.org/0000-0001-7140-0931"      
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/nicholasmr"
 
 defaults:
   - scope:
